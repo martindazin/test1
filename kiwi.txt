@@ -1,7 +1,9 @@
-A l'intérieur de de ce fichier vous trouverez plusieurs recettes de kiwi :
+EDIT du 14/11/16
 
-- Une compote de kiwis
-- Une salade de fruits avec des kiwis
-- Un sorbet aux kiwis
+A l'intérieur de de ce fichier vous trouverez plusieurs recettes de kiwis :
+
+- Une compote de kiwis.
+- Une salade de fruits avec des kiwis.
+- Un sorbet aux kiwis.
 
 D'autres recettes viendront plus tard ;)
