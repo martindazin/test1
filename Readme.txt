@@ -2,4 +2,6 @@
 
 This is the 'help file' !
 
-/FR/
+/ES/
+
+Es el archivo de ayuda !
